@@ -14,8 +14,9 @@ Endscreen
 
 // Goals, Get all the compitencies as you go through your Hendrix Career
 
+
 // Career Compitencies
-Hendrix College students develop a breadth of knowledge across the liveral arts 7 sciences that gives themn the potential to explore the present and flexibly meet the demands of their futures. 
+Hendrix College students develop a breadth of knowledge across the liberal arts 7 sciences that gives them the potential to explore the present and flexibly meet the demands of their futures. 
 - [[Critical Thinking]]
 - [[Leadership]]
 - [[Equity & Inclusion]]
