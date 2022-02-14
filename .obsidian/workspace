@@ -1,12 +1,13 @@
 {
   "main": {
-    "id": "4741cc40906047f5",
+    "id": "35fdd3401afd385f",
     "type": "split",
     "children": [
       {
-        "id": "6f984b60e355ce15",
+        "id": "21471da010557db7",
         "type": "leaf",
         "state": {
+<<<<<<< Updated upstream
           "type": "markdown",
           "state": {
             "file": "Ideas/General Ideas.md",
@@ -51,52 +52,51 @@
           }
         },
         "group": "480094c71d1b217c"
+=======
+          "type": "graph",
+          "state": {}
+        }
+>>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "40c90de50f22c4fa",
-    "type": "split",
+    "id": "0f094b9c23f86aef",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "9461e8719a0909b5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5a814385a1c07298",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "c31e88e19e6c0d4f",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "4a5818a057249960",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ee9d1191e116d6f5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "7797b6a748bff295",
-    "type": "split",
+    "id": "644cd2e49e328581",
+    "type": "mobile-drawer",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "f6b58f3dfd17d9aa",
         "type": "tabs",
         "children": [
@@ -116,14 +116,27 @@
                 "unlinkedCollapsed": true
               }
             }
+=======
+        "id": "a60a00acec8be9f7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+>>>>>>> Stashed changes
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
+<<<<<<< Updated upstream
   "active": "6f984b60e355ce15",
   "lastOpenFiles": [
     "Ideas/General Ideas.md",
@@ -137,4 +150,8 @@
     "Compitencies/Leadership.md",
     "Compitencies/Equity & Inclusion.md"
   ]
+=======
+  "active": "21471da010557db7",
+  "lastOpenFiles": []
+>>>>>>> Stashed changes
 }
