@@ -2,10 +2,10 @@ Game should last approximately 20 min
 //[[Tutorial|Tour/Tutorial]]
 - Show player how to go to different areas/how to play
 Y1 | [[Y1 Ideas]]
-- Explorations class
+- Explorations class (First Semester)
 - Join Clubs (passion and possible future career related clubs)
 Y2 | [[Y2 Ideas]]
-- Career Term
+- Career Term (January, Semester 4)
 - Make a LinkedIn Account
 Y3 | [[Y3 Ideas]]
 - Apply for an internship
