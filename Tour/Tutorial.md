@@ -1,5 +1,5 @@
 # Tutorial
-Welcome to Cultivating Compitencies!
+Welcome to Cultivating Competencies!
 In order to play this game you will need to know a few things.
 Below you have a save and load option.
 Yes, this even works on the web. 
