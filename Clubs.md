@@ -1,0 +1,64 @@
+- African Students Club
+- Alpha Psi Omega
+- American Chemical Society
+- Animal Rights and Rescue
+- Anime Club
+- The Aonian (Literary Arts)
+- Art Club
+- Asian Cultures Club
+- Best Buddies
+- Biochemistry/Molecular Biology Club
+- Board Game Club
+- Campus Kitty Committee
+- Chi Alpha Ministries
+- Classics Club
+- Committee on Gender and Sexuality
+- Computer Science Club
+- Couch Hall Council
+- Cuong Nhu Martial Arts Club
+- Dungeons & Dragons Club
+- Disability Awareness Club
+- Economics Club
+- Environmental Concerns Comittee
+- Galloway Hall Council
+- Gaming Club
+- Hardin Hall Council
+- Hendrix Experience Ambassadors Team
+- Hendrix Filmmakers Club
+- Hendrix N.A.A.C.P.
+- Hendrix Naturalists Club
+- Hillel - Jewish Student Association
+- Houses Hall Council
+- KHDX 93.1 FM
+- Korean Languages & Culture Club
+- Martín Hall Council
+- Middle Eastern Students Association
+- Miller Hall Council
+- Mock Trial
+- Multicultural Development Committe
+- Muslim Student Association
+- Organization for Latino Expressions
+- Outdoors Club
+- Phi Beta Lambda (Professional Buisiness Leaders)
+- Pre-Health Society
+- Pre-Pharmacy Club
+- Pre-Veterinary Club
+- The Profile (Newspaper)
+- Psychology Club
+- Raney Hall Council
+- She's The First
+- S.O.A.R. (Student Outreach & Alternative Resources)
+- Social Committee (SOCO)
+- Society of Physics Students
+- SOMEC (Media and Technology Setup)
+- Student Congress
+- Students for Black Culture (SBC)
+- Student Senate
+- Sword Club
+- TRANS@HDX
+- The Troubadour (Yearbook)
+- Ultimate Frisbee 
+- Unity (LGBTQ+ Student Association)
+- Veasy Hall Council
+- Volunteer Action Committee
+- Young Democrats
