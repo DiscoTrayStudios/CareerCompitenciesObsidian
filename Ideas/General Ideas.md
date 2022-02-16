@@ -9,9 +9,8 @@
 - Have some negative options turn out well, like going to a party instead of going to sleep early. Meet someone at the party who suggest to go to career services, talk to a certain professor, make some friends, etc.
 	- It's always good to make connections
 
-- Have a "Tour" that is the tutorial.
-	- If we did an actual tour then it would take a big chunk of our time I think.  
-	- Alternatively, to cut down on time, have year 1 be the tutorial.
+- If we did an actual tour then it would take a big chunk of our time I think.  
+- Alternatively, to cut down on time, have year 1 be the tutorial.
 	
 - Rather than have everything be questions asked, we can insert a "daily" email that is sent to the player at multiple points in the game. This email will include opportunities that the player has and will have dates to go to specific buildings on campus. We can put the current date in these emails or display it somewhere else on screen.
 	- I don't know how far we should jump for each "day".

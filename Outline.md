@@ -1,5 +1,4 @@
 Game should last approximately 20 min
-//[[Tutorial|Tour/Tutorial]]
 - Show player how to go to different areas/how to play
 Y1 | [[Y1 Ideas]]
 - Explorations class (First Semester)
