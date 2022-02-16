@@ -1,15 +1,15 @@
 Game should last approximately 20 min
 //[[Tutorial|Tour/Tutorial]]
 - Show player how to go to different areas/how to play
-Y1
+Y1 | [[Y1 Ideas]]
 - Explorations class
 - Join Clubs (passion and possible future career related clubs)
-Y2
+Y2 | [[Y2 Ideas]]
 - Career Term
 - Make a Linkedin Account
-Y3
+Y3 | [[Y3 Ideas]]
 - Apply for an internship
-Y4
+Y4 | [[Y4 Ideas]]
 - Senior Stuff
 - Completed 3 Projects
 Endscreen

@@ -9,3 +9,4 @@
 
 - Have some negative options turn out well, like going to a party instead of going to sleep early. Meet someone at the party who suggest to go to career services, talk to a certain professor, make some friends, etc.
 
+- Have a "Tour" that is the tutorial.
