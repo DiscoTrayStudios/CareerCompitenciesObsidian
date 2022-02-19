@@ -24,4 +24,5 @@
 - If we make year 1 the tutorial, then that should give us a significant amount of time to play with. Freshman year is the tutorial for the real college experience. 
 - I currently have the full list of active [[Clubs|clubs/student run organizations]], so we will probably need to cut down on this to not overwhelm the player. Maybe we can organize them depending on what kind of organization/club it is (is it career based, does it make decisions that affect the college, is it just for fun)
 - Whatever we decide to do for the characters and background, we need to do our best to make it to where the art styles go with each other, so we don't want one photorealistic and the other to be anime. Ideas could include putting GOOD pictures of the different places in Hendrix through a filter that gives it that look, or stylizing pictures manually. (I will look into making assets for this by next meeting.) TLDR: Make everything as consistent as possible. [MEDIUM PRIORITY]
-- 
+
+#ideas

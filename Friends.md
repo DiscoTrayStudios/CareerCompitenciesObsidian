@@ -9,3 +9,8 @@ She was in your OR trip. Very adventerous and go with the flow, which can someti
 
 Evan 
 Very type-A person. The kind of person who knows every decision they'll make over the next year
+
+Roommate
+This is your roommate... You always call them roomie. You could just look at the door for their name, but that's up to you. (Their name is __Charlie__)
+
+#info

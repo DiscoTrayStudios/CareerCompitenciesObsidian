@@ -25,3 +25,5 @@ Hendrix College students develop a breadth of knowledge across the liberal arts 
 - [[Teamwork]]
 - [[Technology]]
 - [[Career & Self-Development]]
+
+#ideas
