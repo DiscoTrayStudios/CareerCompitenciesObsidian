@@ -5,8 +5,12 @@
 ##### We can add randomization here to where some people will get there first and some will get there last. 
 
 ##### Once you encounter the roommate
+
+show r
 r "Hey! I'm your roommate _**#(@)$)@#()**_ what's your name?"
-p = *Enter your name*
+
+p = "[p]"
+
 r "Alright [p], nice to meet ya."
 
 "_Wait what did they just say their name was.... did it say it on the door? I don't remember.. I'll just call them Roomie._"
