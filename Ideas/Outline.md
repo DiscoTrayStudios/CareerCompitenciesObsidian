@@ -9,7 +9,7 @@ Y2 | [[Y2 Ideas]]
 Y3 | [[Y3 Ideas]]
 - Apply for an internship
 Y4 | [[Y4 Ideas]]
-- Senior Stuff
+- Senior Capstone/Project
 - Completed 3 Projects
 End-screen
 
