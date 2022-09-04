@@ -45,3 +45,9 @@ Just a few suggestions:
 **Mills**— ~~Social Science—No avatar for Dr. Orozco
 
 **Career Services**—I see the student’s point about clicking through the Career Competencies. Is it possible just to list the 8 and then link to the site or a pdf that includes the descriptions?
+
+## My Playthrough (Taking Time to Play)
+Tutorial - 2:10 min
+Freshman - 9:02 min
+Sophomore - 8:49 min
+Total - 20:01 min
