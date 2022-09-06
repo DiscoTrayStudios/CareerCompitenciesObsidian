@@ -15,6 +15,42 @@
 - Rather than have everything be questions asked, we can insert a "daily" email that is sent to the player at multiple points in the game. This email will include opportunities that the player has and will have dates to go to specific buildings on campus. We can put the current date in these emails or display it somewhere else on screen.
 	- I don't know how far we should jump for each "day".
 
+###### Emotional Scene
+Help a friend in need or study (Both have negative consequences)
+- Help the friend going through a breakup
+	- The friend feels better and nothing bad happens, they see you in good light
+	- You fail the test the following day
+- Study
+	- Your friend isolates themselves.
+	- You are not able to ask them for help in the future
+		- Note: this is because they are so self isolated, not that they hate you
+	- You pass the test the following day but feel bad
+
+###### Mention getting rained during orientation (it happens every year, it's tradition.)
+- "Ugh we got rained on during orientation. Oh well I'll probably look back on this and laugh... It is kinda funny that they said this happens every year."
+
+###### Shirttails?
+- Opt in
+- Adds to some of the competencies
+- Adds social and exhaustion
+
+###### Maybe have a planning session? A way to visualize how to use your time.
+- Plan a good schedule for school/life balance.
+- Part-time job? Athletics? Other Extra-Curriculars (Choir, Band, etc.)? How much time do you plan to spend on homework each week? When do you go to sleep/wake up?
+- Maybe this is something you talk to your advisor talks to you about.
+
+###### Make bad choice after bad choice, overextend yourself, get exhausted.
+- Join every club
+	- every club is 1 pt of exhaustion
+- Stay up as long as possible every chance you get
+- Be friendly with everyone and go to parties
+- Too much exhaustion = You fall asleep in your class and have to talk to your professor.
+- Generally speaking, exhaustion will not just go down, this is because the decisions the player makes will be the trendsetters for what they are likely to do in the time not shown.
+
+Freshman year - have a lot of experiences, make it easy to gain exhaustion
+Sophomore year - work to get an internship/research opportunity
+
+
 ### QUESTIONS / OBSERVATIONS
 ##### Jonathon -
 - Will the competencies be covered in class before playing this game? 
